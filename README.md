@@ -1,1 +1,1 @@
-go learn by https://gobyexample.com
+###Golang Simple Core for beginner
